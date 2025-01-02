@@ -2,11 +2,11 @@ class Game {
     constructor() {
         this.missed = 0
         this.phrases = [
-            new Phrase("Hello World"),
-            new Phrase("Better late than never"),
-            new Phrase("wwd sc"),
-            new Phrase("yyh  f"),
-            new Phrase("dsd"),
+            new Phrase("hello"),
+            new Phrase("happy"),
+            new Phrase("smile"),
+            new Phrase("good day"),
+            new Phrase("Coding"),
         ]
         this.activePhrase = null
     }
